@@ -782,7 +782,7 @@ body {
   overflow-x: hidden;
   font-size: 14px;
   background-color: #eaf0f7;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #50649c;
 }
 
@@ -821,7 +821,7 @@ h6 {
 
 p {
   line-height: 1.6;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   letter-spacing: 0.1px;
 }
@@ -831,7 +831,7 @@ p {
 }
 
 a {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #50649c;
 }
 
